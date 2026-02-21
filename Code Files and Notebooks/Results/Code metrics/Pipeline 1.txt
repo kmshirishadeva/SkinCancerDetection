@@ -1,0 +1,67 @@
+Epoch 1/8 — train_loss: 0.5206, val_auc: 0.9226
+Epoch 2/8 — train_loss: 0.3577, val_auc: 0.9445
+Epoch 3/8 — train_loss: 0.3283, val_auc: 0.9446
+Epoch 4/8 — train_loss: 0.2989, val_auc: 0.9480
+Epoch 5/8 — train_loss: 0.2847, val_auc: 0.9496
+Epoch 6/8 — train_loss: 0.2615, val_auc: 0.9535
+Epoch 7/8 — train_loss: 0.2586, val_auc: 0.9496
+Epoch 8/8 — train_loss: 0.2552, val_auc: 0.9537
+
+XGBoost Test AUC: 0.9532685185185186
+XGBoost Test Acc: 0.8787878787878788
+
+[0]     test-auc:0.92746
+[1]     test-auc:0.93751
+[2]     test-auc:0.94303
+[3]     test-auc:0.94343
+[4]     test-auc:0.94917
+[5]     test-auc:0.94989
+[6]     test-auc:0.95056
+[7]     test-auc:0.95063
+[8]     test-auc:0.95232
+[9]     test-auc:0.95261
+[10]    test-auc:0.95324
+[11]    test-auc:0.95368
+[12]    test-auc:0.95345
+[13]    test-auc:0.95337
+[14]    test-auc:0.95352
+[15]    test-auc:0.95406
+[16]    test-auc:0.95389
+[17]    test-auc:0.95388
+[18]    test-auc:0.95375
+[19]    test-auc:0.95373
+[20]    test-auc:0.95376
+[21]    test-auc:0.95423
+[22]    test-auc:0.95408
+[23]    test-auc:0.95366
+[24]    test-auc:0.95395
+[25]    test-auc:0.95393
+[26]    test-auc:0.95393
+[27]    test-auc:0.95403
+[28]    test-auc:0.95429
+[29]    test-auc:0.95449
+[30]    test-auc:0.95461
+[31]    test-auc:0.95460
+[32]    test-auc:0.95445
+[33]    test-auc:0.95457
+[34]    test-auc:0.95466
+[35]    test-auc:0.95425
+[36]    test-auc:0.95419
+[37]    test-auc:0.95413
+[38]    test-auc:0.95404
+[39]    test-auc:0.95404
+[40]    test-auc:0.95387
+[41]    test-auc:0.95382
+[42]    test-auc:0.95348
+[43]    test-auc:0.95344
+[44]    test-auc:0.95353
+[45]    test-auc:0.95339
+[46]    test-auc:0.95296
+[47]    test-auc:0.95291
+[48]    test-auc:0.95286
+[49]    test-auc:0.95325
+[50]    test-auc:0.95324
+[51]    test-auc:0.95344
+[52]    test-auc:0.95336
+[53]    test-auc:0.95333
+[54]    test-auc:0.95327
